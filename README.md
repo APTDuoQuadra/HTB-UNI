@@ -6,7 +6,7 @@
 | Cloud      | Steam Cloud         | Owalid, Arnaud |
 | Crypto     | Space Pirates       | Zenza, Arnaud, Nassim, Theo | 
 | Forensic   | Stripe Back         | Sawyerf, Theo |
-| Forensic   | Peel Back The Layer | Sawyerf, Theo |
+| Forensic   | Peel Back The Layer | Arnaud |
 | Full Pwn   | Flustered           | Nassim, Zenza, Arnaud |
 | Full Pwn   | Good Game           | Nassim, Zenza, Alexandre, Kuzco, Arnaud | 
 | Full Pwn   | Object              | Arnaud, Alexandre |
